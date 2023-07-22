@@ -1,7 +1,9 @@
 # Cubos-Flix
 Projeto do Curso Cubos Academy - Criado no Módulo 3
 
-# No módulo 3 do cursos fomos desafiados a desenvolver um página que replica uma plataforma de streaming de filmes.
+![](https://i.imgur.com/xG74tOh.png)
+
+# No módulo 3 do curso fomos desafiados a replicar uma página de streaming de filmes.
 
 **TECNOLOGIAS UTILIZADAS**: 
 <div style="display: inline_block"><br/>
