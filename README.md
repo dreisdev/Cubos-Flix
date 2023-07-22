@@ -26,9 +26,4 @@ Projeto do Curso Cubos Academy - Criado no Módulo 3
 
 ![image](https://github.com/dreisdev/Cubos-Flix/assets/79611781/3482865b-f0c0-4d88-8bd2-d2b17aea7057)
 
-###### tags: `front-end` `módulo 3` `HTML` `CSS` `JAVASCRIPT` `desafio`
-
-
-
-
-
+###### tags: `front-end` `módulo 3` `HTML` `CSS` `DOM` `JAVASCRIPT` `desafio`
