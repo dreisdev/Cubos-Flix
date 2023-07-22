@@ -167,7 +167,7 @@ async function showMovies(searchTerm = '') {
             movieInfo.appendChild(movieRatingElement);
 
             const movieRatingImage = document.createElement('img');
-            movieRatingImage.src = '../assets/estrela.svg';
+            movieRatingImage.src = '../Cubos-Flix/assets/estrela.svg';
             movieRatingImage.alt = 'Estrela';
             movieRatingElement.appendChild(movieRatingImage);
 
@@ -332,9 +332,9 @@ function configTheme() {
 
         localStorage.setItem('theme', 'dark');
         btnTheme.src = '../Cubos-Flix/assets/dark-mode.svg';
-        btnPrev.src = '../assets/seta-esquerda-branca.svg';
-        btnNext.src = '../assets/seta-direita-branca.svg';
-        modalClose.src = '../assets/close.svg';
+        btnPrev.src = '../Cubos-Flix/assets/seta-esquerda-branca.svg';
+        btnNext.src = '../Cubos-Flix/assets/seta-direita-branca.svg';
+        modalClose.src = '../Cubos-Flix/assets/close.svg';
 
         body.style.setProperty('--background', '#1B2028');
         body.style.setProperty('--text-color', '#FFFFFF');
@@ -352,10 +352,10 @@ function configTheme() {
     function themeLight() {
 
         localStorage.setItem('theme', 'light');
-        btnTheme.src = '../assets/light-mode.svg';
-        btnPrev.src = '../assets/seta-esquerda-preta.svg';
-        btnNext.src = '../assets/seta-direita-preta.svg';
-        modalClose.src = '../assets/close-dark.svg';
+        btnTheme.src = '../Cubos-Flix/assets/light-mode.svg';
+        btnPrev.src = '../Cubos-Flix/assets/seta-esquerda-preta.svg';
+        btnNext.src = '../Cubos-Flix/assets/seta-direita-preta.svg';
+        modalClose.src = '../Cubos-Flix/assets/close-dark.svg';
 
         body.style.setProperty('--background', '#fff');
         body.style.setProperty('--text-color', '#1b2028');
