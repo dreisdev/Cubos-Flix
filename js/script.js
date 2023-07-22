@@ -331,7 +331,7 @@ function configTheme() {
     function themeDark() {
 
         localStorage.setItem('theme', 'dark');
-        btnTheme.src = '../assets/dark-mode.svg';
+        btnTheme.src = '../Cubos-Flix/assets/dark-mode.svg';
         btnPrev.src = '../assets/seta-esquerda-branca.svg';
         btnNext.src = '../assets/seta-direita-branca.svg';
         modalClose.src = '../assets/close.svg';
